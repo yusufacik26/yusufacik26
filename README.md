@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey 👋, I'm Yusuf Açık!
+linkedintwitterkaggle
 
-<!--
-**yusufacik26/yusufacik26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a versatilist and easily adapt to different hats (App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GIF
+
+🧐 More About Me:
+🔭   I’m currently working on youtube-audio-player
+🤝   I’m looking to collaborate on sheets-database
+🌱   I’m currently learning Typescript;
+👨🏻‍💻   Most of my projects are available on Github
+🎨   Using this svg and Figma I made 👉
+💬   Ask me about anything tech related, I am happy to help;
+📫   Feel free to ping me on LinkedIn
+📝   Checkout my resume
+📚   When I am free, I read fantasy and fiction novels. Checkout my Goodreads to see the book I have read
+
+🔨 Languages and Tools:
+pytorchtensorflowPythonAndroidKotlinJavafirebaseJavaScriptTypescirptReactNode.jsgitfigma
+
+
+📊 Github Stats
+Stats Overview Most Used Languages
