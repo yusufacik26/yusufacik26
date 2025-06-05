@@ -1,27 +1,51 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Yusuf Açık</h1>
-<h3 align="center">A Computer Engineer</h3>
+# 👋 Hello there! I'm Yusuf Acik
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufacik26" alt="yusufacik26" /></a> </p>
+Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI Researcher** with experience in **Python**, **Java**, and **C#**. I specialize in building intelligent systems and exploring the power of **Large Language Models (LLMs)** and **Artificial Intelligence (AI)**.
 
-- 🔭 I’m currently working on **LLM**
+---
 
-- 🌱 I’m currently learning **AI, Deep Learning, Data Science**
+## 💼 About Me
 
-- 👯 I’m looking to collaborate on **RenkAhenk**
+- 🔧 I build applications using **Python**, **Java**, and **C#**
+- 🧠 I explore advanced **AI models**, with a focus on **LLMs** and **Natural Language Processing**
+- 📊 I enjoy working on **machine learning**, **data analysis**, and **automation**
+- 🌍 I believe in open-source collaboration and continuous learning
 
-- ⚡ Fun fact **I'm a little bir crayz**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yusuf açık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf açık" height="30" width="40" /></a>
-</p>
+## 🚀 Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+**Languages & Frameworks:**
+- Python / Java / C#
+- Scikit-learn / PyTorch / TensorFlow
+- ASP.NET / Spring / FastAPI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufacik26&show_icons=true&locale=en&layout=compact" alt="yusufacik26" /></p>
+**AI & Data Science:**
+- Hugging Face Transformers
+- NLP & LLMs
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebooks
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&locale=en" alt="yusufacik26" /></p>
+**Tools & Platforms:**
+- Git & GitHub
+- Docker & Linux
+- VS Code / IntelliJ / Visual Studio
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufacik26&" alt="yusufacik26" /></p>
+---
+
+## 📊 GitHub Stats
+
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yusufacik/)
+- 💼 [GitHub](https://github.com/yusufacik26)
+- 📧 Email: your-email@example.com *(replace with your real one if you want)*
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and projects. Let's build something amazing together! 🚀
