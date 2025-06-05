@@ -37,10 +37,11 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI R
 
 ![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufacik26&theme=radical)
-![[Trophies](https://github-profile-trophy.vercel.app/?username=yusufacik26&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufacik26&theme=radical&hide_border=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yusufacik26&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
