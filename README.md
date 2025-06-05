@@ -37,6 +37,10 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI R
 
 ![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufacik26&theme=radical)
+![[Trophies](https://github-profile-trophy.vercel.app/?username=yusufacik26&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -44,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI R
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yusufacik/)
 - 💼 [GitHub](https://github.com/yusufacik26)
-- 📧 Email: your-email@example.com *(replace with your real one if you want)*
+- 📧 Email: yusufacikedu@gmail.com
 
 ---
 
