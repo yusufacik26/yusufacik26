@@ -64,7 +64,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yusufacik/)
 - 💻 [GitHub](https://github.com/yusufacik26)
-- ✉️ Email: **your-email@example.com** *(replace with your real one)*
+- ✉️ Email: yusufacikedu@gmail.com
 
 ---
 
