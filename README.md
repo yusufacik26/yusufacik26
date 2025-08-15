@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yusuf Acik</h1>
 
 <p align="center">
-  <b>Software Developer</b> • <b>AI & LLM Enthusiast</b> • <b>Data Science Explorer</b>
+  <b>Software Developer</b> • <b>AI & LLM Enthusiast</b> • <b>IoT Developing</b>
 </p>
 
 <p align="center">
