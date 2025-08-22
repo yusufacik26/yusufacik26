@@ -27,6 +27,22 @@
 
 ---
 
+## 📂 Featured Projects
+
+🔹 [**XPLANE_QTG**](https://github.com/yusufacik26/XPLANE_QTG)  
+*A project for collecting and analyzing flight test data within the X-Plane simulator.*  
+`Python` • `X-Plane` • `Data Analysis`
+
+🔹 [**Simulator-Arduino**](https://github.com/yusufacik26/simulator-arduino)  
+*An Arduino-based simulator integration project — connecting hardware with flight simulator environments.*  
+`Arduino` • `C++` • `Electronics`
+
+🔹 [**Online-Film-Arşiv-ve-Puanlama-Sistemi**](https://github.com/yusufacik26/Online-Film-Arsiv)  
+*A movie archiving and rating system built as a university final project.*  
+`C#` • `SQL`
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -40,6 +56,31 @@
 
 **Web/Backend:**  
 `FastAPI` • `Flask` • `ASP.NET` • `Spring`
+
+---
+
+## 🎯 Goals for 2025
+
+- 🌱 Master **MLOps** (deployment & monitoring of ML models)  
+- 🤝 Contribute to more **open-source AI projects**  
+- 📖 Dive deeper into **LLM fine-tuning & RAG pipelines**  
+- 🚀 Publish at least **2 research papers**  
+
+---
+
+## 📚 Currently Learning
+
+- 🔹 **LangChain & RAG** for intelligent assistants  
+- 🔹 **Advanced NLP** with Hugging Face  
+- 🔹 **Cloud AI services** (Google Vertex AI, AWS Sagemaker)  
+
+---
+
+## 🎉 Fun Facts
+
+- 🕹️ I love strategy games (especially **Europa Universalis IV** 🎮)  
+- 🏆 Active in **university tech communities** (Google AI Academy, ACM etc.)  
+- 🧩 I enjoy solving **coding puzzles** and tricky algorithm problems  
 
 ---
 
@@ -57,6 +98,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yusufacik26&theme=radical&no-frame=true&margin-w=10" />
 </p>
+
+---
+
+## 💡 Favorite Quote
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
 ---
 
