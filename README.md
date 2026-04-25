@@ -48,14 +48,11 @@
 **Languages:**  
 `Python` • `Java` • `C#` • `SQL`
 
-**AI & ML:**  
-`PyTorch` • `TensorFlow` • `scikit-learn` • `Hugging Face Transformers` • `NLP`
-
 **Tools & Platforms:**  
-`Docker` • `Git & GitHub` • `Jupyter` • `VS Code` • `Linux`
+`Docker` • `Git & GitHub` • `Jupyter` • `VS Code` • 
 
 **Web/Backend:**  
-`FastAPI` • `Flask` • `ASP.NET` • `Spring`
+`FastAPI` • `Flask` • `ASP.NET` • 
 
 ---
 
