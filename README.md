@@ -1,76 +1,112 @@
-<h1 align="center">🤖 AI Mini Bot (Windows Edition)</h1>
+<h1 align="center">Hi there 👋, I'm Yusuf Açık</h1>
 
 <p align="center">
-  <b>Physical AI Assistant</b> • <b>Computer Vision</b> • <b>IoT & ESP32</b>
+  <b>Backend Developer</b> • <b>Computer Vision & AI</b> • <b>IoT & Embedded Systems</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yusufacik26/AI-Mini-Bot">
-    <img src="https://komarev.com/ghpvc/?username=yusufacik26-aiminibot&label=Project%20views&color=0e75b6&style=flat" alt="project views" />
+  <a href="https://github.com/yusufacik26">
+    <img src="https://komarev.com/ghpvc/?username=yusufacik26&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/yusufacik26/AI-Mini-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/yusufacik26/AI-Mini-Bot?style=flat&color=yellow" alt="Stars" />
+  <a href="https://linkedin.com/in/yusufacik">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Python-3.13%2B-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Gemini_2.5_Flash-orange?logo=google&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About The Project
+## 🧠 About Me
 
-🎓 **AI Mini Bot** is an intelligent, physical desktop assistant built using:
-- 🐍 **Python** | 💻 **Windows OS API**
-- 🤖 **Google Gemini 2.5 Flash** (GenAI SDK) & **Edge-TTS**
-- 👁️ **Computer Vision** & **Hardware Integration (ESP32)**
+🎓 I'm a Computer Engineering student at **Fırat Üniversitesi** and have proudly served as the president of the **ACM Fırat** student club.  
+💡 I am passionate about bridging the gap between hardware and intelligent software, turning complex algorithms into real-world solutions.
 
-🧪 This project bridges the gap between hardware and intelligent software, bringing the AI buddy concept to the Windows ecosystem. It strips away complex servo dependencies to achieve a pure, stable, and highly responsive AI assistant experience.  
-🚀 It sees, hears, speaks, and interacts with your PC.
+My core areas of focus are:
+- 👁️ **Computer Vision & AI:** Deep learning, anomaly detection (Anomalib, PyTorch), and LLM integrations.
+- 💻 **Backend Development:** Building robust APIs and multi-layer architectures using ASP.NET Core and FastAPI.
+- 🤖 **Embedded Systems & IoT:** Developing smart hardware solutions with ESP32 and STM32 microcontrollers.
+
+🚀 Always learning, always building, always sharing.
 
 ---
 
-## 🌟 Key Features
+## 📂 Featured Projects
 
-🔹 **Natural Voice Interaction**  
-*Listens via microphone and speaks fluently in Turkish using Edge-TTS (AhmetNeural).*  
-`SpeechRecognition` • `Edge-TTS` • `Pygame`
+🔹 [**GreenMed (Med+)**](https://github.com/yusufacik26)  
+*An AI-powered backend system that analyzes product images via OCR and LLMs for greenwashing risks, health compatibility, and athletic suitability.*  
+`ASP.NET Core` • `FastAPI` • `PostgreSQL` • `Docker`
 
-🔹 **Visual Perception (Vision)**  
-*Sees its environment through the ESP32 camera, allowing Gemini to analyze objects, faces, and context.*  
-`ESP32-CAM` • `Gemini Vision`
+🔹 [**TÜBİTAK 2247-C STAR: Bolt Defect Inspection**](https://github.com/yusufacik26)  
+*A computer vision research project utilizing deep learning heatmaps to detect structural anomalies in industrial parts.*  
+`Python` • `OpenCV` • `Anomalib` • `PatchCore`
 
-🔹 **Dynamic OLED Expressions**  
-*Changes facial expressions (happy, sad, thinking, etc.) on an SSD1306 OLED screen based on its current emotion.*  
-`I2C` • `HTTP Requests`
+🔹 [**AI Mini Bot (Physical Desktop Assistant)**](https://github.com/yusufacik26/AI-Mini-Bot)  
+*An interactive, ESP32-powered desktop AI assistant powered by Gemini 2.5 Flash, capable of vision, TTS, and Windows PC integration.*  
+`Python` • `ESP32` • `Google GenAI` • `Edge-TTS`
 
-🔹 **Persistent Memory & PC Integration**  
-*Remembers past conversations and executes Windows tasks (web search, save notes, open apps).*  
-`Vectorless Memory` • `OS Subprocess`
+🔹 [**XPLANE_QTG**](https://github.com/yusufacik26/XPLANE_QTG)  
+*A data collection and analysis pipeline for processing flight test data directly from the X-Plane simulator environment.*  
+`Python` • `X-Plane` • `Data Analysis`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core Engine:**  
-`Python 3.13` • `Google GenAI SDK` • `Asyncio`
+**Programming Languages:**  
+`C#` • `Python` • `C/C++` • `SQL`
 
-**Hardware (The Body):**  
-`ESP32` (e.g., Seeed XIAO ESP32S3 Sense) • `SSD1306 OLED (128x64)`
+**Backend & Databases:**  
+`ASP.NET Core` • `FastAPI` • `Entity Framework Core` • `PostgreSQL`
 
-**Audio & Vision:**  
-`SpeechRecognition` • `Edge-TTS` • `Pillow (PIL)`
+**AI & Computer Vision:**  
+`PyTorch` • `OpenCV` • `Ultralytics YOLO` • `Anomalib` • `GenAI SDK`
+
+**IoT & Hardware:**  
+`STM32` • `ESP32` • `Arduino` • `UART / I2C / PWM`
+
+**Tools & DevOps:**  
+`Git Flow` • `Docker` • `GitHub Actions`
 
 ---
 
-## 🚀 Installation & Setup
+## 🎉 Fun Facts
 
-### 1. Hardware (ESP32)
-- Flash the `bot_face.ino` code to your ESP32.
-- Update the **SSID** and **Password** inside the code to match your Wi-Fi network.
-- Note the IP address from the Serial Monitor (115200 baud).
+- 🕹️ I'm a huge fan of grand strategy games (especially **Europa Universalis IV**, **Mount & Blade II**, and **HOI4**).
+- 🎲 I love playing **Dungeons & Dragons**, where I enjoy crafting custom campaigns and detailed character backstories.
+- 📺 When I'm not coding, you can find me rewatching **Suits** or classic Sherlock Holmes mysteries.
 
-### 2. Software (Python)
-Run the following command to install required dependencies:
-```bash
-pip install google-genai edge-tts SpeechRecognition pygame httpx Pillow
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufacik26&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufacik26&layout=compact&theme=radical&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufacik26&theme=radical&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yusufacik26&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yusufacik/)
+- 💻 [GitHub](https://github.com/yusufacik26)
+- ✉️ Email: yusufacikedu@gmail.com
+
+---
+
+<p align="center">
+  ⚡️ "Code. Learn. Share. Repeat." ⚡️
+</p>
